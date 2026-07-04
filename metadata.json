@@ -1,0 +1,6 @@
+{
+  "name": "FF Tournament",
+  "description": "Pakistan's Premium Free Fire Tournament Platform - Join daily tournaments, win real cash prizes, compete with the best players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Host
+Host: https://ais-pre-sp6v3kfmatkxkcwhh6yg3q-235857595065.asia-east1.run.app
+
+# Sitemap
+Sitemap: https://ais-pre-sp6v3kfmatkxkcwhh6yg3q-235857595065.asia-east1.run.app/sitemap.xml
